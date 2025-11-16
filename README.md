@@ -1,0 +1,1 @@
+check capstone_base
